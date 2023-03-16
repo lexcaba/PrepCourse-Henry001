@@ -1,2 +1,3 @@
-# PrepCourse-Henry001
-Este es un repositorio ejemplo curso 002
+este es un proyecto de prueba como clonarlo para mi escritorio local
+john 
+alexs
